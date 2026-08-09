@@ -23,7 +23,7 @@
 
 ## 👋 Introduction
 
-I am a **Full-Stack Developer & Data Analyst** passionate about building intelligent applications. I specialize in combining modern frontend frameworks (React/Next.js) with robust Python backends (FastAPI) and AI integrations (LLMs, Scikit-Learn) to solve real-world problems. Currently, I am a Pre-Final Year B.Tech IT student at A.D. Patel Institute of Technology (CGPA: 8.84).
+I am a **Full-Stack Developer & Data Analyst** passionate about building intelligent applications. I specialize in combining modern frontend frameworks (React/Next.js) with robust Python backends (FastAPI) and AI integrations (LLMs, Scikit-Learn) to solve real-world problems. Currently, I am a Pre-Final Year B.Tech IT student at A.D. Patel Institute of Technology (CGPA: 8.90).
 
 ## 💡 What I Build
 
