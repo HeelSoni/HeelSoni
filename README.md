@@ -105,6 +105,7 @@ Searches millions of papers from arXiv, extracts structured insights via clause-
 **Autonomous Data Analysis Engine**
 An automated junior data scientist that ingests CSVs, auto-cleans data, and runs multi-engine pattern discovery (K-Means, Apriori). Features a Natural Language Hypothesis Generator and a counterfactual ML Simulator.
 *`Python` `Streamlit` `Scikit-Learn` `Pandas` `mlxtend`*
+🔗 [Live Demo](https://insight-ai-fvkhsfa9hpzefqfxaamacw.streamlit.app/)
 
 </td>
 <td width="50%">
