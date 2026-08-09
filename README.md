@@ -69,10 +69,31 @@ An automated junior data scientist tool that ingests CSVs, auto-cleans data, run
 </td>
 <td width="50%">
 
-### ☕ Coffee Shop Sales Dashboard
-**Business Intelligence Dashboard**
-Analyzed 149k+ transactions ($698k revenue) to build a dynamic Excel/Power BI dashboard with temporal slicers identifying peak hours and top products.
-*`Excel` `Pivot Tables` `Power BI` `Data Visualization`*
+### 🥗 [Heelthy](https://github.com/HeelSoni/heelthy)
+**3D Interactive Food Experience**
+A modern, 3D interactive web application showcasing vegetarian and diet foods with scrollytelling, parallax animations, glassmorphism UI, and React Three Fiber 3D navigation.
+*`React 19` `TypeScript` `Three.js` `Tailwind CSS` `Framer Motion`*
+🔗 [Live Demo](https://heelthy.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧴 [Velvet Pores](https://github.com/HeelSoni/velvet-pores-website)
+**Skincare Brand Landing Page**
+A high-conversion, aesthetic landing page for a skincare brand. Fully responsive with product showcases, visual storytelling, and clean markup.
+*`HTML` `CSS` `JavaScript` `Vercel`*
+🔗 [Live Demo](https://velvet-pores-website.vercel.app)
+
+</td>
+<td width="50%">
+
+### 💼 [MyPortfolio](https://github.com/HeelSoni/MyPortfolio)
+**Personal Developer Portfolio**
+A sleek personal portfolio built with Next.js showcasing projects, skills, and experience with modern design and smooth transitions.
+*`Next.js` `TypeScript` `Tailwind CSS` `Vercel`*
+🔗 [Live Demo](https://my-portfolio-heel1.vercel.app)
 
 </td>
 </tr>
