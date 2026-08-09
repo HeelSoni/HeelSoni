@@ -143,7 +143,7 @@ A modern, 3D interactive web application showcasing vegetarian and diet foods wi
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td colspan="2">
 
 #### 👥 HR Attrition Analysis
 **Excel, Data Visualisation**
