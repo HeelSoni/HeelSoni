@@ -29,19 +29,36 @@ class HeelSoni:
     def __init__(self):
         self.name = "Heel Soni"
         self.role = "Data Analyst & AI/ML Developer"
-        self.education = "B.Tech in Information Technology (Pre-Final Year) @ A.D. Patel Institute of Technology (CGPA: 8.84)"
-        self.coursework = ["Statistics", "Database Management", "Business Analytics"]
-        self.core_skills = ["Excel", "SQL", "Python", "Machine Learning", "Data Visualization"]
+        self.education = {
+            "degree": "B.Tech in IT (Pre-Final Year)",
+            "institute": "A.D. Patel Institute of Technology",
+            "cgpa": 8.84
+        }
+        self.coursework = [
+            "Statistics", "Database Management", "Business Analytics"
+        ]
+        self.core_skills = [
+            "Excel", "SQL", "Python", "Machine Learning", 
+            "Data Visualization"
+        ]
         
     def get_qualifications(self):
         return {
-            "experience": "Building full-stack, AI-powered applications & automated data-analysis engines.",
-            "projects": "5+ independent data & dashboarding projects using Excel, Power BI, and Python.",
-            "certifications": ["Google Data Analytics Certified", "freeCodeCamp Data Visualization"]
+            "experience": "Building full-stack, AI-powered applications "
+                          "& automated data-analysis engines.",
+            "projects": "5+ independent data & dashboarding projects "
+                        "using Excel, Power BI, and Python.",
+            "certifications": [
+                "Google Data Analytics Certified", 
+                "freeCodeCamp Data Visualization"
+            ]
         }
     
     def current_focus(self):
-        return "Translating complex datasets into actionable business insights and intelligent applications."
+        return (
+            "Translating complex datasets into actionable "
+            "business insights and intelligent applications."
+        )
 ```
 
 - 🔭 I’m currently building **intelligent, data-driven applications** and **interactive dashboards**.
