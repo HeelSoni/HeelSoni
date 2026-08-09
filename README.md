@@ -24,46 +24,16 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class HeelSoni:
-    def __init__(self):
-        self.name = "Heel Soni"
-        self.role = "Data Analyst & AI/ML Developer"
-        self.education = {
-            "degree": "B.Tech in IT (Pre-Final Year)",
-            "institute": "A.D. Patel Institute of Technology",
-            "cgpa": 8.84
-        }
-        self.coursework = [
-            "Statistics", "Database Management", "Business Analytics"
-        ]
-        self.core_skills = [
-            "Excel", "SQL", "Python", "Machine Learning", 
-            "Data Visualization"
-        ]
-        
-    def get_qualifications(self):
-        return {
-            "experience": "Building full-stack, AI-powered applications "
-                          "& automated data-analysis engines.",
-            "projects": "5+ independent data & dashboarding projects "
-                        "using Excel, Power BI, and Python.",
-            "certifications": [
-                "Google Data Analytics Certified", 
-                "freeCodeCamp Data Visualization"
-            ]
-        }
-    
-    def current_focus(self):
-        return (
-            "Translating complex datasets into actionable "
-            "business insights and intelligent applications."
-        )
-```
+I am a **Data Analyst and AI/ML Developer** passionate about translating complex datasets into actionable business insights and intelligent applications. Currently in my Pre-Final Year of B.Tech (IT) at **A.D. Patel Institute of Technology** (CGPA: 8.84).
 
-- 🔭 I’m currently building **intelligent, data-driven applications** and **interactive dashboards**.
-- 🌱 Deeply focused on **Data Analytics, Machine Learning, and NLP**.
-- 💡 Active member of my college **Tech & Analytics Club** and participant in the **Smart India Hackathon (SIH)**.
+- 🎓 **Education:** B.Tech in Information Technology
+- 📚 **Relevant Coursework:** Statistics, Database Management, Business Analytics
+- 💻 **Experience:** Building full-stack, AI-powered applications & automated data-analysis engines.
+- 📊 **Projects:** 5+ independent data & dashboarding projects using Excel, Power BI, and Python.
+- 🏆 **Certifications:** Google Data Analytics Certified, freeCodeCamp Data Visualization
+- 🔭 **Current Focus:** Building intelligent, data-driven applications and interactive dashboards.
+- 🌱 **Learning:** Deeply focused on Data Analytics, Machine Learning, and NLP.
+- 💡 **Community:** Active member of my college Tech & Analytics Club and participant in the Smart India Hackathon (SIH).
 
 ---
 
