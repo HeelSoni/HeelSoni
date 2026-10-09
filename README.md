@@ -89,11 +89,11 @@ A high-conversion, aesthetic landing page for a skincare brand. Fully responsive
 </td>
 <td width="50%">
 
-### 💼 [MyPortfolio](https://github.com/HeelSoni/MyPortfolio)
+### 💼 [My_Portfolio](https://github.com/HeelSoni/MyPortfolio)
 **Personal Developer Portfolio**
 A sleek personal portfolio built with Next.js showcasing projects, skills, and experience with modern design and smooth transitions.
 *`Next.js` `TypeScript` `Tailwind CSS` `Vercel`*
-🔗 [Live Demo](https://my-portfolio-heel1.vercel.app)
+🔗 [Live Demo](https://heel-portfolio.vercel.app/))
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ If you'd like to collaborate or just chat about tech, data, or AI, feel free to 
 
 - 📧 **Email:** [heelsoni01@gmail.com](mailto:heelsoni01@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/heelsoni](https://linkedin.com/in/heelsoni)
-- 🌐 **Portfolio:** [my-portfolio-heel1.vercel.app](https://my-portfolio-heel1.vercel.app)
+- 🌐 **Portfolio:** [my-portfolio-heel1.vercel.app](https://heel-portfolio.vercel.app/)
 
 <br/>
 <div align="center">
