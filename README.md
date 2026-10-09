@@ -93,7 +93,7 @@ A high-conversion, aesthetic landing page for a skincare brand. Fully responsive
 **Personal Developer Portfolio**
 A sleek personal portfolio built with Next.js showcasing projects, skills, and experience with modern design and smooth transitions.
 *`Next.js` `TypeScript` `Tailwind CSS` `Vercel`*
-🔗 [Live Demo](https://heel-portfolio.vercel.app/))
+🔗 [Live Demo](https://heel-portfolio.vercel.app/)
 
 </td>
 </tr>
